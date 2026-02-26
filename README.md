@@ -75,7 +75,7 @@ npm run dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://leetcode-revision-ecru.vercel.app/](https://leetcode-revision-ecru.vercel.app/) with your browser to see the result.
 
 ## Deployment
 
